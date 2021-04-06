@@ -1,10 +1,10 @@
-# {{name}}
+# AISB WordClicker Presentation
 
 ## Run
 
 ``` shell
+yarn css
 yarn install
-
 yarn watch
 ```
 
